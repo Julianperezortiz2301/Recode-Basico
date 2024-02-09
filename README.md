@@ -29,3 +29,7 @@ Dentro de cada carpeta, encontrarás los archivos relacionados con las clases, i
 Si te gusta este repositorio, ¡considera darle una ⭐ (star) para apoyar el proyecto! También te invitamos a unirte a nuestra comunidad y participar en discusiones y colaboraciones.
 
 ¡A seguir aprendiendo y construyendo juntos! 🌟
+
+## PRYECTO HAKATON
+
+se crea un proyecto para comprovar avances 
